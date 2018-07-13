@@ -7,12 +7,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Green Future
+email: paal.a.nordhagen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a developmentpage for our management company Green Future AS.
+  We are an alternativ investment fund that invest direct in to renewable energy
+  or indirect in to technology companies based on renewable energy. Our goal is
+  to be Norways best and preferable fund for exposure to renewable energy.
+  The Fund will get professional investors an easy way in to the renewable sector,
+  especially solar- and windenergy and disruptive technology where solar- and wind-
+  energy creates business oppurtunities. We belive that the renwable sector will be
+  the solution to the worlds climat challenges ahead.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
