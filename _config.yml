@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   energy creates business oppurtunities. We belive that the renwable sector will be
   the solution to the worlds climate challenges ahead.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://venuscurrency.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
