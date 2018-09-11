@@ -1,17 +1,15 @@
 /**
  * Site header
  */
-.site-wrapper {
-    display:inline-block;
-    height:20px;
-}
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
     background-color:#72DF2A;
-    display:inline-block;
+    //display:inline-block;
     width:60px;
+    height:30px;
   
 
     // Positioning context for the mobile navigation icon
