@@ -68,6 +68,7 @@
     float: right;
     line-height: 56px;
     grid-area: 9 / 1 / 15/8;
+    background-color:#72DF2A;
     .menu-icon {
         display: none;
     
@@ -115,6 +116,7 @@
         .trigger {
             clear: both;
             display: none;
+            background-color:#72DF2A;
         }
 
         &:hover .trigger {
