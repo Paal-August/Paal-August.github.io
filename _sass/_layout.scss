@@ -28,7 +28,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: center;
-    grid-area: 1 / 1 / 2/2;
+    //grid-area: 1 / 1 / 2/2;
     background-color:#72DF2A;
     display:inline-block;
     &,
@@ -38,7 +38,7 @@
 }
 
 .site-menu{
-  grid-area: 1 / 2 / 2/6;
+  //grid-area: 1 / 2 / 2/6;
   background-color:#72DF2A;
   display:inline-block;
 
@@ -48,7 +48,7 @@
  
     float: right;
     line-height: 56px;
-    grid-area: 3 / 7 / 4/8;
+   // grid-area: 3 / 7 / 4/8;
     ackground-color:#72DF2A;
      display:inline-block;
     .menu-icon {
