@@ -22,7 +22,7 @@
   
   justify-items:center;
   justify-content:center;
-  align-items:stretch;
+
   align-content:center;
 
   grid-auto-flow:column;
@@ -47,9 +47,13 @@
 }
 
 .site-menu {
-
-  background-color:#72DF2A;
-  display:inline-block;
+    font-size: 26px;
+    font-weight: 300;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: center;
+    background-color:#72DF2A;
+    display:inline-block;
 
 
 }
