@@ -13,13 +13,13 @@
 }
 
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: 56px;
-  background-color:#72DF2A;
-    //display:inline-block;
-  width:100%;
-  height:30px;
+  display: grid;
+  position: relative;
+  max-height:200px;
+  margin: auto;
+  grid-gap: 10px;
+  grid-template: repeat(2, 1fr) / repeat(7, 1fr);
+  grid-auto-flow:column;
   justify-content:start;
   position:absolute;
  /* display: grid;
@@ -36,10 +36,10 @@
   grid-auto-flow:column;*/
     // Positioning context for the mobile navigation icon
     //position: absolute;
-  grid-area: 1 / 1 / 3/6;
+  grid-area: 1 / 1 / 2/8;
 }
 .site-menu{
-  grid-area: 1 / 6 / 3/7;
+  grid-area: 1 / 2 / 2/6;
   background-color:#72DF2A;
 }
 
@@ -51,7 +51,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    grid-area: 1 / 7 / 3/8;
+    grid-area: 1 / 6 / 2/7;
     background-color:#72DF2A;
   
     &,
@@ -63,7 +63,7 @@
 .site-main{
     width:100%;
     background-color:rgb(255, 255, 128);
-    grid-area: 3 / 1 / 9/8;
+    grid-area: 1 / 7 / 2/8;
 } 
   
 .site-nav {
