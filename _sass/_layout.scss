@@ -40,14 +40,6 @@
     //position: absolute;
   grid-area: 1 / 1 / 2/8;
 }
-.site-menu{
-  grid-area: 1 / 2 / 2/6;
-  background-color:#72DF2A;
-  display:inline-block;
-  position:relative;
-  justify-content:center;
-  align-content:center;
-}
 
 .site-title {
     font-size: 26px;
@@ -67,6 +59,15 @@
     &:visited {
         color: #008000;
     }
+}
+
+.site-menu{
+  grid-area: 1 / 2 / 2/6;
+  background-color:#72DF2A;
+  display:inline-block;
+  position:relative;
+  justify-content:center;
+  align-content:center;
 }
 
 .site-main{
