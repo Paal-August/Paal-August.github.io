@@ -15,7 +15,7 @@
 .site-header {
   display: grid;
   position: relative;
-  max-height:200px;
+  max-height:100px;
   margin: auto;
   grid-gap: 10px;
   grid-template: repeat(2, 1fr) / repeat(7, 1fr);
@@ -51,7 +51,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    grid-area: 1 / 6 / 2/7;
+    grid-area: 1 / 1 / 2/2;
     background-color:#72DF2A;
   
     &,
