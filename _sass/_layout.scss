@@ -29,8 +29,8 @@
     padding:20px;
     float: left;
     background-color:#72DF2A;
-    display:inline;
-  justify-self:start;
+    display:inline-block;
+  justify-content:space-evenly;
     &,
     &:visited {
         color: #008000;
