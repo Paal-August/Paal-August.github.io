@@ -44,6 +44,7 @@
   background-color:#72DF2A;
   display:inline-block;
   position:relative;
+  justify-content:center;
 }
 
 .site-title {
@@ -58,6 +59,7 @@
     background-color:#72DF2A;
     display:inline-block;
     position:relative;
+    justify-content:left;
     &,
     &:visited {
         color: #008000;
@@ -67,21 +69,20 @@
 .site-main{
     width:100%;
     background-color:rgb(255, 255, 128);
-
+    grid-area: 9 / 1 / 15/8;
 } 
   
 .site-nav {
     width:100%;
     float: right;
     line-height: 56px;
-    /*--grid-area: 9 / 1 / 15/8;*/
     grid-area: 1 / 7 / 2/8;
     background-color:#72DF2A;
     display:inline-block;
     position:relative;
     .menu-icon {
     display: none;
-    
+    justify-content:right;
     }
 
     .page-link {
