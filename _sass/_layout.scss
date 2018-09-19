@@ -18,8 +18,13 @@
   grid-gap: 0px;
   width:100%;
   grid-area:1/1/2/8;
+
   justify-items:center;
-  align-items:center;
+  justify-content:center;
+  align-items:stretch;
+  align-content:center;
+
+  grid-auto-flow:column;
   background-color:rgb(255, 255, 128);
 }
 
