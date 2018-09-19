@@ -17,7 +17,7 @@
   margin: auto;
   grid-gap: 0px;
   grid-area: 1 / 1 / 2/8;
-  width:100%lute;
+  width:100%;
   position:fixed;
   
   justify-items:center;
@@ -50,6 +50,7 @@
 
   background-color:#72DF2A;
   display:inline-block;
+  grid-area:.site-header;
 
 }
 
