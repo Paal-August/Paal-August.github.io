@@ -51,7 +51,7 @@
     background-color:#72DF2A;
     display:inline-block;
     grid-area: 1 / 3 / 2/6;
-  justify-items:start;
+  justify-items:start;o
 }
 
 .site-nav {
@@ -72,7 +72,7 @@
   
     }
 
-    .page-link {
+/*    .page-link {
         color: $text-color;
         line-height: $base-line-height;
         // Gaps between nav items, but not on the last one
@@ -80,7 +80,7 @@
             margin-right: 20px;
         }
 
-    }
+    }*/
 
     @include media-query($on-palm) {
         position: absolute;
@@ -110,7 +110,7 @@
             }
         }
 
- /*       .trigger {
+        .trigger {
             clear: both;
             display: inline;
             background-color:#72DF2A;
@@ -129,7 +129,7 @@
                 margin-right: 0;
             }
             margin-left: 20px;
-        }*/
+        }
     }
 }
 
