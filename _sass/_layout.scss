@@ -44,15 +44,13 @@
 .site-title {
     font-size: 26px;
     font-weight: 300;
-    line-height: 56px;
-    line-widht:100px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
     grid-area: 1 / 1 / 2/2;
     background-color:#72DF2A;
     display:inline-block;
-    position:relative;
+    position:absolute;
     justify-content:left;
     align-content:start;
     &,
@@ -65,7 +63,7 @@
   grid-area: 1 / 2 / 2/6;
   background-color:#72DF2A;
   display:inline-block;
-  position:relative;
+  position:absolute;
   justify-content:center;
   align-content:center;
 }
@@ -83,7 +81,7 @@
     grid-area: 1 / 7 / 2/8;
     background-color:#72DF2A;
     display:inline-block;
-    position:relative;
+    position:absolute;
     .menu-icon {
     display: none;
     justify-content:right;
