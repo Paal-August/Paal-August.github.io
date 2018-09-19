@@ -41,6 +41,8 @@
 .site-menu{
   grid-area: 1 / 2 / 2/6;
   background-color:#72DF2A;
+  display:inline-block;
+  position:relative;
 }
 
 .site-title {
@@ -53,7 +55,8 @@
     float: left;
     grid-area: 1 / 1 / 2/2;
     background-color:#72DF2A;
-  
+    display:inline-block;
+    position:relative;
     &,
     &:visited {
         color: #008000;
@@ -72,8 +75,10 @@
     line-height: 56px;
     grid-area: 9 / 1 / 15/8;
     background-color:#72DF2A;
+    display:inline-block;
+    position:relative;
     .menu-icon {
-        display: none;
+    display: none;
     
     }
 
