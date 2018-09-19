@@ -13,13 +13,12 @@
 }
 
 .site-header { 
-  position: relative;
   max-height:100px;
   margin: auto;
   grid-gap: 0px;
   width:100%;
   grid-area:1/1/2/8;
-  display:inline;
+
 
 }
 
@@ -28,10 +27,10 @@
     font-weight: 300;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
+    float: center;
     grid-area: 1 / 1 / 2/2;
     background-color:#72DF2A;
-
+    display:inline-block;
     &,
     &:visited {
         color: #008000;
@@ -41,6 +40,7 @@
 .site-menu{
   grid-area: 1 / 2 / 2/6;
   background-color:#72DF2A;
+  display:inline-block;
 
 }
 
@@ -49,17 +49,15 @@
     float: right;
     line-height: 56px;
     grid-area: 3 / 7 / 4/8;
-    background-color:#72DF2A;
-
+    ackground-color:#72DF2A;
+     display:inline-block;
     .menu-icon {
-    display: inline-block;
     lign-content:end;
     }
 
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
-        display: inline-block;
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
