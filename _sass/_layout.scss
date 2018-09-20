@@ -14,9 +14,9 @@
 
 .site-header { 
   display:grid;
-  height:56px;
+  height:100px;
   grid-gap: 1px;
-  width:100%;
+ /* width:100%;*/
   position:fixed;
   background-color:rgb(255, 255, 128);
   grid-area: 1 / 1 / 2/8;
