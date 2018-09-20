@@ -25,12 +25,12 @@
  .site-title {
     font-size: 16px;
     grid-area: 1 / 1 / 2/2;
-    position:flex;
+    height:80px;
     letter-spacing: -1px;
     padding:20px;
     background-color:#72DF2A;
     display:inline-block;
-    justify-content:space-evenly;
+
     &,
     &:visited {
         color: #008000;
@@ -38,12 +38,12 @@
    .site-menu1 {
     font-size: 30px;
     grid-area: 1 / 2 / 2/3;
-    position:flex;
+    height:50px;
     letter-spacing: -1px;
     padding:20px;
     background-color:#72DF2A;
     display:inline-block;
-    justify-content:end;
+ 
 }
 }
 
