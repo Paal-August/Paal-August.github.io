@@ -20,10 +20,7 @@
   position:fixed;
   background-color:rgb(255, 255, 128);
   grid-area: 1 / 1 / 2/8;
-
-}
-
-.site-title.site-header {
+  .site-title {
     font-size: 36px;
     grid-area: 1 / 1 / 2/2;
     position:flex;
@@ -37,6 +34,10 @@
         color: #008000;
     }
 }
+
+
+}
+
 
 .site-menu1.site-header {
     font-size: 30px;
