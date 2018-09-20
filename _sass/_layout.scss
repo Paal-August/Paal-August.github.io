@@ -43,7 +43,11 @@
     padding:20px;
     background-color:#72DF2A;
     display:inline-block;
- 
+     
+    &,
+    &:visited {
+        color: #008000;
+    }
 }
 }
 
