@@ -108,21 +108,20 @@
     display:inline-block;
 }
 
-.site-nav {
- /*  .page-link {
+/*.site-nav {
+    .page-link {
         font-size: 20px;
         height:50px;
         letter-spacing: -1px;
         padding:20px;
         background-color:#72DF2A;
         display:inline-block;
-        /*color: $text-color;
         line-height: $base-line-height;
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
         }
-    }*/
+    }
 
     @include media-query($on-palm) {
         position: absolute;
@@ -142,17 +141,17 @@
             padding-top: 10px;
             text-align: center;
 
-     /*       > svg {
+            > svg {
                 width: 18px;
                 height: 15px;
 
                 path {
                     fill: $grey-color-dark;
                 }
-            } */
+            } 
         }
 
-  /*      .trigger {
+        .trigger {
             clear: both;
             display: inline;
             background-color:#72DF2A;
@@ -171,9 +170,9 @@
                 margin-right: 0;
             }
             margin-left: 20px;
-        }*/
+        }
     }
-}
+}*/
 
 /**
  * Site main
