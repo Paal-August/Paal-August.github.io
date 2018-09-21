@@ -176,13 +176,6 @@
     }
 }*/
 
-/**
- * Site links
- */
-
-.home{
-  top-margin:200px;
-}
 
 /**
  * Site main
@@ -270,6 +263,12 @@
 /**
  * Page content
  */
+
+.home{
+  margin-top:200px;
+}
+
+
 .page-content {
     padding: $spacing-unit 0;
 }
