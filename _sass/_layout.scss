@@ -264,10 +264,6 @@
  * Page content
  */
 
-.home{
-  margin-top:200px;
-}
-
 
 .page-content {
     padding: $spacing-unit 0;
@@ -301,6 +297,11 @@
 /**
  * Posts
  */
+
+.home{
+  margin:200px 0 0 0;
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
