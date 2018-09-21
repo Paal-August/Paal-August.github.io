@@ -262,22 +262,22 @@
  * Different links
  */
 
+.page-content {
+    padding: $spacing-unit 0;
+}
+
 /**
  * About Green Future
  */
 
-.post{
-   margin:200px 0 0 0;
-   font-size: 20px;
-   grid-gap: 1px;
-   width:100%;
-   float:left;
-   padding:20px;
-   grid-area: 9 / 1 / 14/8;
-}
-
-.page-content {
-    padding: $spacing-unit 0;
+.home{
+  margin:150px 0 0 0;
+  font-size: 20px;
+  grid-gap: 1px;
+  width:100%;
+  float:left;
+  padding:20px;
+  background-color:rgb(255, 255, 128);
 }
 
 .page-heading {
@@ -308,15 +308,14 @@
  * Post in Green Future
  */
 
-.home{
-  margin:150px 0 0 0;
-  font-size: 20px;
-  grid-gap: 1px;
-  width:100%;
-  float:left;
-  padding:20px;
-  background-color:rgb(255, 255, 128);
- 
+.post{
+   margin:200px 0 0 0;
+   font-size: 20px;
+   grid-gap: 1px;
+   width:100%;
+   float:left;
+   padding:20px;
+   grid-area: 9 / 1 / 14/8;
 }
 
 .post-header {
