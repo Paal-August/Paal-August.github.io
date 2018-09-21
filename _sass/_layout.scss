@@ -13,9 +13,7 @@
 }
 
 .site-header { 
- /* display:grid;*/
   font-size: 20px;
- /* height:100px;*/
   display:flex;
   grid-gap: 1px;
   width:100%;
@@ -179,7 +177,7 @@
             } */
         }
 
-        .trigger {
+  /*      .trigger {
             clear: both;
             display: inline;
             background-color:#72DF2A;
@@ -198,9 +196,13 @@
                 margin-right: 0;
             }
             margin-left: 20px;
-        }
+        }*/
     }
 }
+
+/**
+ * Site main
+ */
 
 .site-main{
     width:100%;
