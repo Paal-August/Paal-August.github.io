@@ -51,74 +51,63 @@
 }
 
 .site-menu2 {
-    font-size: 20px;
     grid-area: 1 / 3 / 2/4;
+    font-size: 20px;
     height:50px;
-    position:flex;
     letter-spacing: -1px;
     padding:20px;
     background-color:#72DF2A;
     display:inline-block;
-    justify-content:space-evenly;
 }
 
 .site-menu3 {
-    font-size: 20px;
     grid-area: 1 / 4 / 2/5;
+    font-size: 20px;
     height:50px;
-    position:flex;
     letter-spacing: -1px;
     padding:20px;
     background-color:#72DF2A;
     display:inline-block;
-    justify-content:space-evenly;
 }
 
 .site-menu4 {
-    font-size:20px;
     grid-area: 1 / 5 / 2/6;
+    font-size: 20px;
     height:50px;
-    position:flex;
     letter-spacing: -1px;
     padding:20px;
     background-color:#72DF2A;
     display:inline-block;
-    justify-content:space-evenly;
 }
 
  .site-nav {
-    display:grid;
-    font-size: 20px;
     grid-area: 1 / 6 / 2/8;
+    font-size: 20px;
     height:50px;
-    position:flex;
     letter-spacing: -1px;
     padding:20px;
     background-color:#72DF2A;
+    display:inline-block;
 }
 
 .menu-icon {
-    font-size: 20px;
     grid-area: 1 / 6 / 2/7;
+    font-size: 20px;
     height:50px;
-    position:flex;
     letter-spacing: -1px;
     padding:20px;
     background-color:#72DF2A;
     display:inline-block;
-    justify-content:space-evenly;
 }
 
 .trigger {
-    font-size: 20px;
     grid-area: 1 / 7 / 2/8;
+    font-size: 20px;
     height:50px;
-    position:flex;
     letter-spacing: -1px;
     padding:20px;
     background-color:#72DF2A;
     display:inline-block;
-    justify-content:space-evenly;
 }
 
    .site-nav {
