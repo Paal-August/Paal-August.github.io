@@ -90,7 +90,18 @@
     justify-content:space-evenly;
 }
 
-.site-nav {
+.site-nav1 {
+    display:grid;
+    font-size: 20px;
+    grid-area: 1 / 6 / 2/8;
+    height:50px;
+    position:flex;
+    letter-spacing: -1px;
+    padding:20px;
+    background-color:#72DF2A;
+}
+
+.site-nav2 {
     display:grid;
     font-size: 20px;
     grid-area: 1 / 6 / 2/8;
