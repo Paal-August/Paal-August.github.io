@@ -13,11 +13,11 @@
 
 }
 
-.image-container{
+/*.image-container{
   background-image: url("../_includes/Vindmøller_images.jpg");
   background-size: cover;
   background-position: center;
-  height: 200px;
+  height: 200px;*/
 }
 .site-header { 
   font-size: 20px;
@@ -27,6 +27,9 @@
   float:left;
   padding:20px;
   background-color:rgb(255, 255, 128);
+  background-image: url("../_includes/Vindmøller_images.jpg");
+  background-size: cover;
+  background-position: center;
 
  /* grid-area: 1 / 1 / 2/8;*/
 }
