@@ -335,7 +335,7 @@
    width:200px;
    float:left;
  
-  position:inline-block;
+   display:inline-block;
   /* grid-area: 9 / 1 / 14/8;*/
 }
 
@@ -406,5 +406,6 @@
      float:left;
      padding:20px;
      background-color: #11ffeeff;
+     display:inline-block;
 }
 
