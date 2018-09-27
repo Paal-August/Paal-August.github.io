@@ -22,7 +22,7 @@
   opacity:50%;
   background-color:#72DF2A;
   display:inline-block;
- /* z-index:6;*/
+  z-index:6;
 }
 .caption{
    font-size: 20px;
@@ -137,7 +137,7 @@
         height:50px;
         letter-spacing: -1px;
         padding:20px;
-        background-color:#72DF2A;
+        background-color:#11ffeeff;
         display:inline-block;
         line-height: $base-line-height;
         // Gaps between nav items, but not on the last one
