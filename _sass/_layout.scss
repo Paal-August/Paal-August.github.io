@@ -386,6 +386,14 @@
     }
 }
 
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation:landscape) {
+  .site-header, .image-container {
+  float: left;
+    width: 20em;
+}
+
+
+
 /**
  * Green Future´s blog
  */
