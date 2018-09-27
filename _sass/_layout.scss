@@ -21,6 +21,7 @@
   opacity:50%;
   background-color:#72DF2A;
   display:inline-block;
+    background-size: cover;
   z-index:6;
 }
 .caption{
@@ -37,7 +38,7 @@
   padding:20px;
   background-color:rgb(255, 255, 128);
  /* background-image: url("../_includes/Vindmoller_images.jpeg");*/
-  background-size: cover;
+
   background-position: center;
 
  /* grid-area: 1 / 1 / 2/8;*/
