@@ -306,6 +306,7 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+    display:inline-block;
 
     > li {
         margin-bottom: $spacing-unit;
