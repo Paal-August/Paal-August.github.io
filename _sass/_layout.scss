@@ -325,7 +325,7 @@
 }
 
 /**
- *Green Future main
+ * Green Future News
  */
 
 .post{
@@ -343,7 +343,7 @@
     margin-bottom: $spacing-unit;
     background-color:#4c9ed9;
     display:inline-block;
-    width:100px;
+    width:150px;
 }
 
 .post-title {
@@ -351,7 +351,7 @@
     letter-spacing: -1px;
     line-height: 1;
     background-color:#4c9ed9;
-    width:1000px;
+    width:200px;
     display:inline-block;
 
     @include media-query($on-laptop) {
@@ -363,7 +363,7 @@
     margin-bottom: $spacing-unit;
     background-color:#4c9ed9;
     display:inline-block;
-
+    width:1000px;
     h2 {
         font-size: 32px;
 
