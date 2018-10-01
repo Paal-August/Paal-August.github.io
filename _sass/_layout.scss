@@ -21,7 +21,7 @@
   opacity:50%;
   background-color:#df80ff;*/
   display:flex;
-
+  grid-template:(1, 1fr)/(5, 1fr);
   z-index:6;
 }
 .caption{
