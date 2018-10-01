@@ -43,7 +43,9 @@
   background-color:rgb(255, 255, 128);
 
   background-position: center;
-
+  .image-container{
+    background-size:cover;
+  }
  /* grid-area: 1 / 1 / 2/8;*/
 }
 
