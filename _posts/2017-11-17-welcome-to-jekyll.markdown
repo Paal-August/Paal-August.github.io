@@ -4,6 +4,15 @@ title:  "Welcome to Green Future!"
 date:   2018-07-12
 categories: jekyll update
 ---
+
+We are setting up a new alternative investment fund in the renewable energy sector.
+The fund will start with investments in infrastructure like solar producing plants
+and landbased windmill plants. When 70 % of committed capital is invested, we will
+on a smaller scale invest in technology companies that is based on renewable energy
+and has the potential to disrupt the transportation sector as we know it. Example of
+new technology is better batteries and autonom vihicles (cars, boats, aerial).
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
