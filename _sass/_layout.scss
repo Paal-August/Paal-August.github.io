@@ -77,6 +77,7 @@ z-index:2;
     background-color:#dd72DF2A;
     display:inline-block;
      z-index:3;
+       position:absolute;
 }
 
 .site-menu2 {
@@ -88,6 +89,7 @@ z-index:2;
     background-color:#dd72DF2A;
     display:inline-block;
   z-index:3;
+    position:absolute;
 }
 
 .site-menu3 {
@@ -99,6 +101,7 @@ z-index:2;
     background-color:#dd72DF2A;
     display:inline-block;
   z-index:3;
+    position:absolute;
 }
 
 .site-menu4 {
@@ -110,6 +113,7 @@ z-index:2;
     background-color:#dd72DF2A;
     display:inline-block;
   z-index:3;
+    position:absolute;
 }
 
 .site-nav {
@@ -120,6 +124,7 @@ z-index:2;
     background-color:#dd72DF2A;
     display:inline-block;
   z-index:3;
+    position:absolute;
 }
 /*.menu-icon {
     grid-area: 1 / 6 / 2/7;
@@ -141,6 +146,7 @@ z-index:2;
     display:inline-block;
   justify-content:space-between;
   z-index:3;
+    position:absolute;
 }
 
 /*.site-nav {*/
@@ -155,6 +161,7 @@ z-index:2;
         display:inline-block;
         justify-content:start;
       z-index:3;
+        position:absolute;
        /* line-height: $base-line-height; 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
