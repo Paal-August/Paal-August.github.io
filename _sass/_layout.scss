@@ -9,7 +9,8 @@
   margin: auto;
   grid-gap: 10px;
   grid-template: repeat(20, 1fr) / repeat(7, 1fr);
-/*  justify-content:space-around;*/
+/*  justify-content:space-around;
+    background-color:rgb(255, 255, 128);*/
 
 }
 
@@ -28,7 +29,7 @@
   position:fixed;
   float:left;
   padding:10px;
-  background-color:rgb(255, 255, 128);
+  background-color:#BBF56A;
 z-index:2;
   /*background-position: center;
   .image-container{
