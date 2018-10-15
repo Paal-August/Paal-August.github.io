@@ -30,7 +30,6 @@
   float:left;
   padding:10px;
   background-color:#BBF56A;
-z-index:2;
   /*background-position: center;
   .image-container{
     background-position:top;
@@ -52,7 +51,7 @@ z-index:2;
   display:flex;
   /* grid-template-columns:100%;*/
   opacity:0.75;
-
+  z-index:1;
 }
 
 #site-title {
